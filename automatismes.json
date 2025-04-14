@@ -1,0 +1,245 @@
+{
+  "5ème": {
+    "Nombres et calculs": [
+      {
+        "question": "Effectue la division euclidienne de 125 par 7. Quel est le quotient et le reste ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "quotient": 17,
+          "reste": 6,
+          "detail": "125 = 7 × 17 + 6"
+        }
+      },
+      {
+        "question": "Calcule : $3 \\times (8 - 5) + 2^{3}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": 17,
+          "etapes": [
+            "1. $8 - 5 = 3$",
+            "2. $3 × 3 = 9$",
+            "3. $2^{3} = 8$",
+            "4. $9 + 8 = 17$"
+          ]
+        }
+      },
+      {
+        "question": "Développe et réduis : $4(x + 2)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "expression": "$4x + 8$",
+          "explication": "Application de la distributivité : $4 × x + 4 × 2$"
+        }
+      },
+      {
+        "question": "Écris la fraction $\\frac{15}{25}$ sous forme simplifiée.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "fraction": "$\\frac{3}{5}$",
+          "methode": "Division par le PGCD (5)"
+        }
+      },
+      {
+        "question": "Compare les nombres relatifs : $-5$ et $-3$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "comparaison": "$-5 < -3$",
+          "explication": "Sur la droite numérique, -5 est à gauche de -3"
+        }
+      },
+      {
+        "question": "Calcule l'aire d'un triangle de base 10 cm et de hauteur 6 cm.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "aire": "30 cm²",
+          "formule": "$\\frac{10 × 6}{2} = 30$"
+        }
+      },
+      {
+        "question": "Convertis 250 cm³ en litres.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "valeur": "0.25 L",
+          "conversion": "$1 L = 1000 cm^{3}$"
+        }
+      },
+      {
+        "question": "Un robinet fuit à raison de 3 litres par minute. Combien de litres seront perdus en 1 heure ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "quantite": "180 L",
+          "calcul": "$3 × 60 = 180$"
+        }
+      },
+      {
+        "question": "Exprime 0.75 en pourcentage.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "pourcentage": "75%",
+          "methode": "$0.75 × 100$"
+        }
+      }
+    ],
+    "Arithmétique": [
+      {
+        "question": "Trouve tous les diviseurs de 30.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "diviseurs": [1, 2, 3, 5, 6, 10, 15, 30],
+          "methode": "Vérification des nombres de 1 à 30"
+        }
+      },
+      {
+        "question": "Parmi ces nombres : 12, 17, 21, 25, 30, lesquels sont multiples de 3 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "multiples": [12, 21, 30],
+          "critere": "Somme des chiffres divisible par 3"
+        }
+      },
+      {
+        "question": "Le nombre 45 est-il divisible par 9 ? Justifie ta réponse.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "reponse": "Oui",
+          "justification": "$45 ÷ 9 = 5$ (division exacte)"
+        }
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "Combien d'axes de symétrie possède un carré ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "nombre": 4,
+          "explication": "2 diagonales + 2 médiatrices"
+        }
+      },
+      {
+        "question": "Dans un triangle ABC, si $\\widehat{A} = 50^{\\circ}$ et $\\widehat{B} = 70^{\\circ}$, quelle est la mesure de $\\widehat{C}$ ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "angle": "$60^{\\circ}$",
+          "calcul": "$180 - (50 + 70) = 60$"
+        }
+      }
+    ]
+  },
+  "4ème": {
+    "Nombres et calculs": [
+      {
+        "question": "Calcule : $(-3) × (-5)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": 15,
+          "regle": "Produit de deux nombres négatifs"
+        }
+      },
+      {
+        "question": "Simplifie $\\frac{24}{36}$ en utilisant le PGCD.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "fraction": "$\\frac{2}{3}$",
+          "PGCD": 12,
+          "etapes": [
+            "PGCD(24,36) = 12",
+            "$\\frac{24 ÷ 12}{36 ÷ 12} = \\frac{2}{3}$"
+          ]
+        }
+      },
+      {
+        "question": "Calcule : $\\frac{2}{3} + \\frac{1}{6}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "$\\frac{5}{6}$",
+          "etapes": [
+            "Dénominateur commun : 6",
+            "$\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$"
+          ]
+        }
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "Utilise le théorème de Pythagore pour calculer l'hypoténuse d'un triangle rectangle dont les côtés mesurent 3 cm et 4 cm.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "hypoténuse": "5 cm",
+          "calcul": "$\\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = 5$"
+        }
+      },
+      {
+        "question": "Cite une propriété des diagonales d'un parallélogramme.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "propriete": "Elles se coupent en leur milieu",
+          "illustration": "Les diagonales [AC] et [BD] vérifient AO = OC et BO = OD"
+        }
+      }
+    ]
+  },
+  "3ème": {
+    "Nombres et calculs": [
+      {
+        "question": "Calcule : $\\frac{2}{5} + \\frac{3}{4}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "resultat": "$\\frac{23}{20}$",
+          "etapes": [
+            "Dénominateur commun : 20",
+            "$\\frac{8}{20} + \\frac{15}{20} = \\frac{23}{20}$"
+          ]
+        }
+      },
+      {
+        "question": "Donne la valeur exacte de $\\sqrt{81}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "valeur": "9",
+          "explication": "$9^{2} = 81$"
+        }
+      }
+    ],
+    "Fonctions": [
+      {
+        "question": "Si $f(x) = 2x + 1$, quelle est l'image de 3 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "image": 7,
+          "calcul": "$f(3) = 2 × 3 + 1 = 7$"
+        }
+      },
+      {
+        "question": "Si $g(x) = x - 5$, quel est l'antécédent de 0 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": {
+          "antécédent": 5,
+          "resolution": "$x - 5 = 0 ⇒ x = 5$"
+        }
+      }
+    ]
+  }
+}
