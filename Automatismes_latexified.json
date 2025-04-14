@@ -1,0 +1,1498 @@
+{
+  "5ème": {
+    "Nombres et calculs": [
+      {
+        "question": "\\(Effectue la division euclidienne de 125 par 7. Quel est le quotient et le reste ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $3 \times (8 - 5) + 2^3$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $4(x + 2)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Écris la fraction $\\frac{15}{25}$ sous forme simplifiée.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Compare les nombres relatifs : -5 et -3.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Représente le point A(-2, 3) dans un repère.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule l'aire d'un triangle de base 10 cm et de hauteur 6 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 250 cm³ en litres.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Un robinet fuit à raison de 3 litres par minute. Combien de litres d'eau seront perdus en 1 heure ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Exprime 0.75 en pourcentage.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $18 \\div 2 + 5 \\times 4 - 1$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Utilise la distributivité pour calculer : $7 \\times 12$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Construis le symétrique du segment [AB] par rapport au point O.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Détermine si 24 est un multiple de 6.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Écris le quotient de 17 par 5 sous forme fractionnaire.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Donne une valeur approchée au dixième près de $\\frac{10}{3}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie la fraction $\\frac{28}{42}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(La somme des angles d'un triangle est de ... degrés.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(-4) + 7$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le centre de symétrie du rectangle est ...\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Écris une expression pour le périmètre d'un rectangle de longueur $L$ et largeur $l$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(-8) - (-3)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Donne la formule du volume d'un pavé droit de longueur $L$, largeur $l$, et hauteur $h$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 1.5 litres en cm³.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Reconnais si la situation suivante est proportionnelle : 3 kg de pommes coûtent 6 €, donc 5 kg coûtent 10 €.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si 20% d'un nombre est 30, quel est ce nombre ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trace un triangle ABC tel que AB = 5 cm, BC = 4 cm et AC = 6 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Les angles alternes-internes sont formés par ...\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la fréquence d'apparition du chiffre 3 dans la série : 1, 3, 2, 3, 4, 3, 5.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Teste si l'égalité $2x + 5 = 11$ est vraie pour $x = 3$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $12.5 \\times 8.4$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Quel est le résultat de $36 \\div (2 + 4) \\times 3$?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe : $5(2x - 3) + 7$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Écris la fraction $\\frac{45}{60}$ sous forme irréductible.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Ordonne les nombres relatifs suivants du plus petit au plus grand : -7, 2, -1, 5, -3.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quelles sont les coordonnées du symétrique du point B(4, -1) par rapport à l'origine ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule le périmètre d'un rectangle de longueur 15 cm et de largeur 9 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 3 m³ en litres.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Un cycliste parcourt 24 km en 2 heures. Quelle est sa vitesse moyenne en km/h ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Exprime $\\frac{3}{8}$ en pourcentage.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $3.7 + 8.25 - 1.9$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le quotient de 100 divisé par 8 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $3(2a + 5) - 4a$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Compare les fractions $\\frac{2}{7}$ et $\\frac{5}{14}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne l'opposé de -11.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quelles sont les coordonnées du milieu du segment [AB] si A(1, 4) et B(5, 2) ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule l'aire d'un parallélogramme de base 12 cm et de hauteur 7 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 4500 litres en m³.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Une voiture consomme 8 litres d'essence pour parcourir 100 km. Combien consommera-t-elle pour 350 km ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Exprime 1.6 en pourcentage.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(15.3 - 8.7) \\times 2.5$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le reste de la division euclidienne de 187 par 12 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $-(4 - 3y) - 2y + 7$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Compare les nombres $\\frac{5}{8}$ et $\\frac{11}{16}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne l'opposé de -0.5.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quelles sont les coordonnées du symétrique du point D(2, -4) par rapport à l'axe des ordonnées ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule l'aire latérale d'un prisme droit à base rectangulaire de dimensions 6 cm, 4 cm et de hauteur 10 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 6300 cm³ en litres.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $45.6 \\div 2.4 + 7.9$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le quotient de 400 divisé par 35 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $5(3 - 2x) - (7 - x)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Compare les nombres $\\frac{2}{3}$, $\\frac{3}{5}$ et $\\frac{7}{10}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Donne l'opposé de $1.25$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quelles sont les coordonnées du symétrique du point F(-4, 0) par rapport à l'axe des abscisses ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule l'aire totale d'un cylindre de rayon 4 cm et de hauteur 6 cm ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 0.012 m³ en litres.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si un agriculteur récolte 5 tonnes de blé sur 2 hectares, combien récoltera-t-il sur 7 hectares ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Exprime $\\frac{9}{5}$ en pourcentage.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Arithmétique": [
+      {
+        "question": "\\(Trouve tous les diviseurs de 30.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont multiples de 3 : 12, 17, 21, 25, 30 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 45 est-il divisible par 9 ? Justifie ta réponse.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne un multiple commun à 4 et 6.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus petit multiple commun (PPCM) de 3 et 5 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve un diviseur commun à 18 et 24 autre que 1.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont divisibles par 5 : 15, 22, 35, 48, 50 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 77 est-il un multiple de 7 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne un multiple de 9 compris entre 50 et 70.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus petit multiple commun (PPCM) de 4 et 6 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve le plus grand diviseur commun (PGCD) de 35 et 56.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont divisibles par 10 : 20, 33, 40, 55, 70 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 133 est-il un multiple de 7 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne un diviseur de 72 compris entre 10 et 20.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus petit multiple commun (PPCM) de 6 et 8 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve le plus grand diviseur commun (PGCD) de 48 et 60.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont divisibles par 4 : 16, 23, 28, 34, 44 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 105 est-il un multiple de 15 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne un diviseur de 90 compris entre 20 et 40.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus petit multiple commun (PPCM) de 9 et 12 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve le plus grand diviseur commun (PGCD) de 72 et 90.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont divisibles par 6 : 18, 25, 30, 42, 51 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 91 est-il un multiple de 7 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Donne un diviseur de 144 compris entre 50 et 100.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus petit multiple commun (PPCM) de 10 et 15 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve tous les diviseurs communs de 28 et 42.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parmi les nombres suivants, lesquels sont multiples de 9 : 18, 23, 36, 49, 54 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 65 est-il divisible par 5 ? Justifie.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "\\(Combien d'axes de symétrie possède un carré ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Construis le symétrique du triangle RST par rapport à la droite (d).\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si deux angles correspondants sont égaux, que peut-on dire des deux droites coupées par la sécante ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Dans un triangle ABC, si l'angle $\\widehat{A} = 50^\\circ$ et l'angle $\\widehat{B} = 70^\\circ$, quelle est la mesure de l'angle $\\widehat{C}$ ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le centre d'un cercle est-il toujours un centre de symétrie pour ce cercle ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Combien de faces possède un prisme droit à base pentagonale ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Construis le symétrique du segment [EF] par rapport au milieu du segment [GH].\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Calcul littéral": [
+      {
+        "question": "Réduis l'expression : $7a + 3b - 2a - 5b$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Évalue l'expression $3x^2 - 2x + 1$ pour $x = -1$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie : $y \\times y^3 \\times y^2$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Écris une expression pour l'aire d'un carré de côté $c$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Traduis la phrase suivante en une expression mathématique : \"Le triple de la somme de $n$ et de cinq\".",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Réduis : $-4x + 9y + 6x - 2y - 3$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Évalue $a^2 - 3ab + b^2$ pour $a = 2$ et $b = -1$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie : $(z^4)^5 \\div z^{12}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Écris une expression pour l'aire d'un disque de rayon $r$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Traduis : \"Le carré de la différence entre $a$ et $b$\".",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Statistique": [
+      {
+        "question": "\\(Dans une série de notes : 12, 15, 9, 14, 10, quel est l'effectif total ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la fréquence de la note 14 dans la série ci-dessus.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Représente la série de notes ci-dessus par un diagramme en bâtons.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si la fréquence d'une catégorie est de 0.35, quel est le pourcentage correspondant ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Organise les données suivantes en un tableau : Rouge, Bleu, Vert, Rouge, Jaune, Bleu, Rouge.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans une série de masses (en kg) : 56, 62, 59, 65, 56, 60, quel est l'effectif total ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la fréquence de la masse 56 kg dans la série ci-dessus.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Représente la série de masses ci-dessus par un diagramme en bâtons.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si la fréquence d'une catégorie est de 0.08, quel est le pourcentage correspondant ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Recueille les couleurs des yeux des élèves de ta classe et organise-les sous forme de tableau.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Probabilité": [
+      {
+        "question": "\\(Si on lance une pièce de monnaie équilibrée, quelle est la probabilité d'obtenir face ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Sur une échelle de probabilités de 0 à 1, où se situe un événement impossible ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans un sac contenant 5 billes rouges et 3 billes bleues, quelle est la probabilité de tirer une bille bleue ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si la probabilité d'un événement est de 1, comment qualifie-t-on cet événement ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Peut-on obtenir une probabilité supérieure à 1 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si on lance une pièce de monnaie truquée où P(Pile) = 0.7, quelle est la probabilité d'obtenir face ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Sur une échelle de probabilités, où se situe un événement impossible ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans un sac contenant 9 billes jaunes et 5 billes bleues, quelle est la probabilité de tirer une bille jaune ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si la probabilité d'un événement est entre 0 et 1, comment qualifie-t-on cet événement ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(La somme des probabilités de tous les événements élémentaires d'une expérience aléatoire est égale à ...\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ]
+  },
+  "4ème": {
+    "Nombres et calculs": [
+      {
+        "question": "Calcule : $(-3) \\times (-5)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie la fraction $\\frac{24}{36}$ en utilisant le PGCD.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{2}{3} + \\frac{1}{6}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Utilise le théorème de Pythagore pour calculer la longueur de l'hypoténuse d'un triangle rectangle dont les côtés de l'angle droit mesurent 3 cm et 4 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la quatrième proportionnelle de 2, 5 et 8.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Exprime 15% de 80.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 90 km/h en m/s.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Écris 0.000057 en notation scientifique.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Détermine si 17 est un nombre premier.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $(x + 3)(x - 2)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{3}{4} \\div \\frac{1}{2}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule le volume d'un cylindre de rayon 3 cm et de hauteur 5 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Utilise la réciproque du théorème de Pythagore pour déterminer si un triangle de côtés 5 cm, 12 cm et 13 cm est rectangle.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Résous l'équation $2x + 7 = 15$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la moyenne de la série statistique : 10, 12, 15, 11, 18.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(2 \\times 10^3) \\times (3 \\times 10^{-5})$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie la fraction $\\frac{75}{100}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(-2) + (-6) - 4$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Utilise la propriété du produit en croix pour vérifier si $\\frac{3}{7} = \\frac{9}{21}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la longueur manquante dans un triangle rectangle si l'hypoténuse mesure 10 cm et un côté de l'angle droit mesure 8 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si une réduction de 30% est appliquée sur un article de 50 €, quel est le nouveau prix ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Convertis 15 m/s en km/h.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Écris 3450000 en notation scientifique.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Décompose 60 en produit de facteurs premiers.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe et réduis : $(2x - 1)^2$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{5}{8} \\times \\frac{2}{3}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(-4.5) \\times 2.8$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Détermine le PGCD de 48 et 72 en utilisant l'algorithme d'Euclide.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{5}{6} - \\frac{2}{9}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si l'hypoténuse d'un triangle rectangle mesure 15 cm et un côté de l'angle droit mesure 9 cm, quelle est la longueur de l'autre côté ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Arithmétique": [
+      {
+        "question": "\\(Nombres entiers - diviseurs et multiples décomposer un nombre entier en produit- simplifier une fraction - résoudre des problèmes faisant appel à l'arithmétique (phénomènes périodiques, cycles.....)\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve la décomposition en produit de facteurs premiers de 84.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie la fraction $\\frac{91}{65}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus grand diviseur commun (PGCD) de 16 et 28 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Le nombre 7 est-il un diviseur de 112 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Trouve la décomposition en produit de facteurs premiers de 150.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie la fraction $\\frac{119}{85}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "\\(Pythagore énoncé direct (Géogébra)\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Carré d'un nombre - Enoncé direct de la propriété de Pythagore - utilisation de la touche et Calcul de longueurs\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Parallélogramme propriétés réciproque - parallélogramme particuliers\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Reconnaitre un parallélogramme par les diagonales, et les propriétés de conservation de la symétrie centrale- Parallélogramme particuliers- construction.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Cite une propriété des diagonales d'un parallélogramme.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si deux triangles ont deux côtés proportionnels et l'angle compris entre ces côtés de même mesure, sont-ils semblables ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Démontre que le triangle EFG de côtés 6 cm, 8 cm et 10 cm est rectangle.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Calcul littéral": [
+      {
+        "question": "\\(Distributivité simple et double\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Motiver le calcul littéral en vue de résolution de problèmes, la lettre << x >> est une indéterminée connaitre et utiliser la distributivité simple et double - réduire une somme une différence\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Réduis : $2(a - 3b) - (5a + b)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Évalue $x^3 + 2y^2$ pour $x = -2$ et $y = 3$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Simplifie : $\\frac{a^5 \\times a^{-2}}{a^3}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Utilise la double distributivité pour développer : $(x - 1)(2x + 3)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Factorise : $x^2 - 8x + 16$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Statistique": [
+      {
+        "question": "\\(Série statistique recueillir et représenter les données (Tableur - Grapheur) - calculer une moyenne simple une moyenne pondérée. (Tableur)\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la moyenne pondérée des notes suivantes avec leurs coefficients : (12, coeff 3), (15, coeff 2), (10, coeff 1).\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si la moyenne d'une série de 5 nombres est 11, quelle est la somme de ces nombres ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la fréquence relative (en pourcentage) de la valeur 13 dans la série : 10, 13, 15, 13, 11, 13, 14.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Probabilité": [
+      {
+        "question": "\\(Modéliser une expérience aléatoire (Tableur) représenter une expérience aléatoire par un arbre- déterminer la probabilité d'un évènement.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si on tire une carte au hasard dans un jeu de 32 cartes, quelle est la probabilité de tirer un as ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(On lance deux pièces de monnaie équilibrées. Quelle est la probabilité d'obtenir deux faces ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Dans un sac contenant des jetons rouges et bleus, la probabilité de tirer un jeton rouge est de $\\frac{2}{5}$. Quelle est la probabilité de tirer un jeton bleu ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ]
+  },
+  "3ème": {
+    "Nombres et calculs": [
+      {
+        "question": "\\(Calculs avec les nombres fractionnaires valeur exacte, approchée établir: calcul avec les puissances et écriture scientifiques d'un nombre.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Racine carré et Pythagore\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Racine carrée d'un nombre positif - valeur exacte et approchée- encadrement entre deux entiers - mémoriser la liste des racines des carrées parfaits < 169-calculer une longueur avec la propriété de Pythagore.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{2}{5} + \\frac{3}{4}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Donne la valeur exacte de $\\sqrt{81}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Écris 0.00000034 en notation scientifique.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $(2 \\times 10^5) \\div (4 \\times 10^2)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Encadre $\\sqrt{50}$ entre deux entiers consécutifs.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la longueur de l'hypoténuse d'un triangle rectangle dont les côtés de l'angle droit mesurent 6 cm et 8 cm.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Rends la fraction $\\frac{48}{72}$ irréductible.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Calcule : $\\frac{7}{9} - \\frac{2}{3} + \\frac{1}{6}$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Donne la valeur approchée de $\\sqrt{17}$ au dixième près.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Arithmétique": [
+      {
+        "question": "\\(Diviseurs et multiples d'un entier, étude des phénomènes périodiques.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Reconnaitre un nombre premier\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(décomposition primaire d'un entier- mémoriser la liste des nombre premiers < 50 - rendre une fraction irréductible.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Décompose 42 en produit de facteurs premiers.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Rends la fraction $\\frac{18}{24}$ irréductible.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le plus grand diviseur commun de 12 et 18 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Géométrie": [
+      {
+        "question": "\\(Se repérer dans l'espace -Section plane - calcul de volume\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Visualiser dans l'espace- Repérage sur la sphère-section plane d'un solide - calcul de volume et conversions d'unités\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Propriété de Thalès\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Utilisation de Géogebra- Enoncé direct du théorème de Thalès en lien avec la proportionnalité des longueurs-la configuration du << papillon >> est introduite par symétrie centrale.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si deux droites sont parallèles, que peut-on dire des angles alternes-internes ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans un triangle rectangle ABC rectangle en B, que représente le côté AC ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans un triangle rectangle, quel est le rapport entre le côté opposé à un angle et l'hypoténuse ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Si l'angle $\\widehat{BAC}$ d'un triangle rectangle ABC est de 30 degrés, quelle est la mesure de l'angle $\\widehat{BCA}$ ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Calcul littéral": [
+      {
+        "question": "\\(La lettre << x >> est une indéterminée - statut du signe << = >> - reconnaitre et utiliser la distributivité simple et double développement - réduction- est irrationnel*.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Factorisation simple. Reconnaitre et utiliser dans les deux sens l'identité :\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Réduis : $(x + 5)(x - 5)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Factorise : $4x^2 - 9$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Réduis : $5x^2 - 3x + 2x^2 + 7x - 9$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Factorise : $3ax - 6ay$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Développe : $(x - 4)(x + 7)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Réduis : $8(2a - 3) - 5(a + 1)$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Factorise : $x^2 - 100$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Fonctions": [
+      {
+        "question": "\\(Notion de fonction\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(la lettre << x >> est une variable utiliser une formule Image antécédents-notation et représentation, lecture à partir d'un graphique, d'un tableau une image, des antécédentes. Utilisation du tableur.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Si $f(x) = 2x + 1$, quelle est l'image de 3 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Si $g(x) = x - 5$, quel est l'antécédent de 0 ?",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Si $f(x) = -3x + 5$, calcule l'image de -2.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "Détermine un antécédent de 7 par la fonction $f(x) = -2x + 1$.",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Probabilité": [
+      {
+        "question": "\\(Modélisation de phénomènes aléatoires - événements contraires-évènements incompatibles- calcul de probabilité dans le cadre non équiprobable- construire et utiliser un arbre. Utilisation du tableur\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si on lance un dé équilibré à 6 faces, quelle est la probabilité d'obtenir un nombre pair ou un multiple de 3 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Dans un sac contenant 7 billes vertes et 4 billes rouges, quelle est la probabilité de ne pas tirer une bille verte ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Si on tire une carte au hasard dans un jeu de 52 cartes, quelle est la probabilité de tirer un trèfle ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ],
+    "Statistique": [
+      {
+        "question": "\\(Etendue - moyenne - médiane\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Série statistique utilisation du tableur grapheur - interpréter les caractéristiques de position de dispersion. Utilisation du tableur\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la moyenne de la série : 15, 20, 12, 25, 18.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Quel est le pourcentage représenté par une fréquence de 0.65 ?\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      },
+      {
+        "question": "\\(Calcule la moyenne de la série : 8, 10, 12, 14, 16.\\)",
+        "niveau": "moyen",
+        "type": "ouvert",
+        "reponse": ""
+      }
+    ]
+  }
+}
