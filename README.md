@@ -1,0 +1,2 @@
+# Automatismes
+Test générateur automatismes
