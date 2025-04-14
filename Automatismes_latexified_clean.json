@@ -62,7 +62,7 @@
         "reponse": ""
       },
       {
-        "question": "Calcule : $18 \\div 2 + 5 \\times 4 - 1$.",
+        "question": "Calcule : $18 \div 2 + 5 \times 4 - 1$.",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -302,7 +302,7 @@
         "reponse": ""
       },
       {
-        "question": "Calcule : $(15.3 - 8.7) \\times 2.5$.",
+        "question": "Calcule : $(15.3 - 8.7) \times 2.5$.",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -424,7 +424,7 @@
         "reponse": ""
       },
       {
-        "question": "\\(Le nombre 45 est-il divisible par 9 ? Justifie ta réponse.\\)",
+        "question": "\\(Le nombre 45 est-il divisible par 9 ? \\)",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -618,7 +618,7 @@
         "reponse": ""
       },
       {
-        "question": "Construis le symétrique du segment [EF] par rapport au milieu du segment [GH].",
+        "question": "Construis le symétrique du segment $[EF]$ par rapport au milieu du segment $[GH]$.",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -820,7 +820,7 @@
         "reponse": ""
       },
       {
-        "question": "Simplifie la fraction $\\frac{24}{36}$ en utilisant le PGCD.",
+        "question": "Simplifie la fraction $\\frac{24}{36}$.",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -831,12 +831,7 @@
         "type": "ouvert",
         "reponse": ""
       },
-      {
-        "question": "Utilise le théorème de Pythagore pour calculer la longueur de l'hypoténuse d'un triangle rectangle dont les côtés de l'angle droit mesurent 3 cm et 4 cm.",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+      
       {
         "question": "Calcule la quatrième proportionnelle de 2, 5 et 8.",
         "niveau": "moyen",
@@ -995,12 +990,7 @@
       }
     ],
     "Arithmétique": [
-      {
-        "question": "\\(Nombres entiers - diviseurs et multiples décomposer un nombre entier en produit- simplifier une fraction - résoudre des problèmes faisant appel à l'arithmétique (phénomènes périodiques, cycles.....)\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Trouve la décomposition en produit de facteurs premiers de 84.",
         "niveau": "moyen",
@@ -1039,30 +1029,10 @@
       }
     ],
     "Géométrie": [
-      {
-        "question": "Pythagore énoncé direct (Géogébra)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
-      {
-        "question": "\\(Carré d'un nombre - Enoncé direct de la propriété de Pythagore - utilisation de la touche et Calcul de longueurs\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
-      {
-        "question": "\\(Parallélogramme propriétés réciproque - parallélogramme particuliers\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
-      {
-        "question": "\\(Reconnaitre un parallélogramme par les diagonales, et les propriétés de conservation de la symétrie centrale- Parallélogramme particuliers- construction.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+      
+     
+      
+     
       {
         "question": "Cite une propriété des diagonales d'un parallélogramme.",
         "niveau": "moyen",
@@ -1083,18 +1053,8 @@
       }
     ],
     "Calcul littéral": [
-      {
-        "question": "Distributivité simple et double",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
-      {
-        "question": "\\(Motiver le calcul littéral en vue de résolution de problèmes, la lettre << x >> est une indéterminée connaitre et utiliser la distributivité simple et double - réduire une somme une différence\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+      
+      
       {
         "question": "Réduis : $2(a - 3b) - (5a + b)$.",
         "niveau": "moyen",
@@ -1153,12 +1113,7 @@
       }
     ],
     "Probabilité": [
-      {
-        "question": "\\(Modéliser une expérience aléatoire (Tableur) représenter une expérience aléatoire par un arbre- déterminer la probabilité d'un évènement.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Si on tire une carte au hasard dans un jeu de 32 cartes, quelle est la probabilité de tirer un as ?",
         "niveau": "moyen",
@@ -1181,24 +1136,14 @@
   },
   "3ème": {
     "Nombres et calculs": [
-      {
-        "question": "Calculs avec les nombres fractionnaires valeur exacte, approchée établir: calcul avec les puissances et écriture scientifiques d'un nombre.",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Racine carré et Pythagore",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
       },
-      {
-        "question": "\\(Racine carrée d'un nombre positif - valeur exacte et approchée- encadrement entre deux entiers - mémoriser la liste des racines des carrées parfaits < 169-calculer une longueur avec la propriété de Pythagore.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Calcule : $\\frac{2}{5} + \\frac{3}{4}$.",
         "niveau": "moyen",
@@ -1212,7 +1157,7 @@
         "reponse": ""
       },
       {
-        "question": "Écris 0.00000034 en notation scientifique.",
+        "question": "Écris $0.00000034$ en notation scientifique.",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
@@ -1255,24 +1200,14 @@
       }
     ],
     "Arithmétique": [
-      {
-        "question": "Diviseurs et multiples d'un entier, étude des phénomènes périodiques.",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Reconnaitre un nombre premier",
         "niveau": "moyen",
         "type": "ouvert",
         "reponse": ""
       },
-      {
-        "question": "\\(décomposition primaire d'un entier- mémoriser la liste des nombre premiers < 50 - rendre une fraction irréductible.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Décompose 42 en produit de facteurs premiers.",
         "niveau": "moyen",
@@ -1311,12 +1246,8 @@
         "type": "ouvert",
         "reponse": ""
       },
-      {
-        "question": "\\(Utilisation de Géogebra- Enoncé direct du théorème de Thalès en lien avec la proportionnalité des longueurs-la configuration du << papillon >> est introduite par symétrie centrale.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+      
+      
       {
         "question": "\\(Si deux droites sont parallèles, que peut-on dire des angles alternes-internes ?\\)",
         "niveau": "moyen",
@@ -1343,18 +1274,8 @@
       }
     ],
     "Calcul littéral": [
-      {
-        "question": "\\(La lettre << x >> est une indéterminée - statut du signe << = >> - reconnaitre et utiliser la distributivité simple et double développement - réduction- est irrationnel*.\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
-      {
-        "question": "Factorisation simple. Reconnaitre et utiliser dans les deux sens l'identité :",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
+     
       {
         "question": "Réduis : $(x + 5)(x - 5)$.",
         "niveau": "moyen",
@@ -1437,12 +1358,7 @@
       }
     ],
     "Probabilité": [
-      {
-        "question": "\\(Modélisation de phénomènes aléatoires - événements contraires-évènements incompatibles- calcul de probabilité dans le cadre non équiprobable- construire et utiliser un arbre. Utilisation du tableur\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+    
       {
         "question": "Si on lance un dé équilibré à 6 faces, quelle est la probabilité d'obtenir un nombre pair ou un multiple de 3 ?",
         "niveau": "moyen",
@@ -1469,12 +1385,7 @@
         "type": "ouvert",
         "reponse": ""
       },
-      {
-        "question": "\\(Série statistique utilisation du tableur grapheur - interpréter les caractéristiques de position de dispersion. Utilisation du tableur\\)",
-        "niveau": "moyen",
-        "type": "ouvert",
-        "reponse": ""
-      },
+     
       {
         "question": "Calcule la moyenne de la série : 15, 20, 12, 25, 18.",
         "niveau": "moyen",
